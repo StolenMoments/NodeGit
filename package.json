@@ -1,0 +1,22 @@
+{
+  "name": "day10-challenge",
+  "version": "1.0.0",
+  "description": "챌린지 day10 문제 해결 저장소",
+  "main": "day10.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StolenMoments/day10-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StolenMoments/day10-challenge/issues"
+  },
+  "homepage": "https://github.com/StolenMoments/day10-challenge#readme",
+  "dependencies": {
+    "require-reload": "^0.2.2"
+  }
+}
